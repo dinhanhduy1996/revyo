@@ -1,7 +1,7 @@
 {
-        "versionName": "1.0.4",
-        "versionCode": 4,
+        "versionName": "1.0.3",
+        "versionCode": 3,
         "apkUrl": "https://github.com/dinhanhduy1996/revyo/raw/refs/heads/main/app-release.apk",
-        "releaseNotes": "updated to support new features and bug fixes"
+        "releaseNotes": "cập nhật những tính năng mới, sửa lỗi và cải thiện hiệu suất ứng dụng"
 
 }
