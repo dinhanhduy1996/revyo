@@ -1,7 +1,7 @@
 {
-        "versionName": "1.0.5",
-        "versionCode": 5,
+        "versionName": "1.0.8",
+        "versionCode": 8,
         "apkUrl": "https://github.com/dinhanhduy1996/revyo/raw/refs/heads/main/app-release.apk",
-        "releaseNotes": "cập nhật những tính năng mới, sửa lỗi và cải thiện hiệu suất ứng dụng"
+        "releaseNotes": "big update, realtime review, fix bugs"
 
 }
