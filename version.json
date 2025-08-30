@@ -1,7 +1,7 @@
 {
-        "versionName": "1.0.9",
-        "versionCode": 9,
+        "versionName": "1.0.10",
+        "versionCode": 10,
         "apkUrl": "https://github.com/dinhanhduy1996/revyo/raw/refs/heads/main/app-release.apk",
-        "releaseNotes": "big update, realtime review, fix bugs"
+        "releaseNotes": "thêm thống kê, ôn từ mới, cập nhật UI, anti-cheat"
 
 }
