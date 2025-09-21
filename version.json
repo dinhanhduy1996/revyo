@@ -1,7 +1,7 @@
 {
-        "versionName": "1.1.1",
-        "versionCode": 14,
+        "versionName": "1.1.2",
+        "versionCode": 15,
         "apkUrl": "https://github.com/dinhanhduy1996/revyo/raw/refs/heads/main/app-release.apk",
-        "releaseNotes": "sửa biểu đồ "
+        "releaseNotes": "fix lỗi dấu nháy "
 
 }
