@@ -1,6 +1,6 @@
 {
-        "versionName": "2.0.0",
-        "versionCode": 17,
+        "versionName": "2.0.1",
+        "versionCode": 18,
         "apkUrl": "https://github.com/dinhanhduy1996/revyo/raw/refs/heads/main/app-release.apk",
-        "releaseNotes": "Thêm dark mode, fix màu sắc dark mode, thêm unit_name + review_mode vào notification admin"
+        "releaseNotes": "Fix dictation TextField overlay che chữ trên Android, sửa keyboard overlap"
 }
